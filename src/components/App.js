@@ -3,7 +3,7 @@ import blogData from "../data/blog";
 import Header from "./Header";
 import About from "./About";
 
-console.log(blogData);
+// console.log(blogData);
 
 function App() {
   return (
